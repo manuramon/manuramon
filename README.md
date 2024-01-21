@@ -5,6 +5,7 @@ My name is Manuel Ramon, a former resarcher at [CERSYRA-IRIAF](https://iriaf.cas
 ## Research interest
 * Animal breeding and genetics
 * Genomics
+* Bioinformatics
 * Climate Change adaptation
 * Thermotolerance
 * Reproduction ability
