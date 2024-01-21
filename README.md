@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Manuel Ramon, a former resarcher at [CERSYRA-IRIAF](https://iriaf.castillalamancha.es) and now working as a scientific research at [INIA-CSIC](https://www.inia.es/Pages/Home.aspx#) in Spain.
+My name is Manuel Ramon, a former resarcher at [CERSYRA-IRIAF](https://iriaf.castillalamancha.es) and currently working as a scientific research at [INIA-CSIC](https://www.inia.es/Pages/Home.aspx#) in Spain.
 
 ## Research interest
 * Animal breeding and genetics
