@@ -8,7 +8,7 @@ My name is Manuel Ramon, a former resarcher at [CERSYRA-IRIAF](https://iriaf.cas
 * 💻  Bioinformatics
 * 😎 Climate Change adaptation
 * 🥵 Thermotolerance
-* ⚤RReproduction ability
+* ⚤  Reproduction ability
 * 🐑 Small ruminants
 
 
